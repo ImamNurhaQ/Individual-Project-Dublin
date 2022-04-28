@@ -1,0 +1,142 @@
+[
+  {
+    "name": "English Premier League",
+    "slug": "english-premier-league",
+    "abbr": "Prem",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+    "CategoryId": 1
+  },
+  {
+    "name": "Spanish Primera División",
+    "slug": "spanish-primera-division",
+    "abbr": "La Liga",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "CategoryId": 2
+  },
+  {
+    "name": "Italian Serie A",
+    "slug": "italian-serie-a",
+    "abbr": "Serie A",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
+    "CategoryId": 3
+  },
+  {
+    "name": "German Bundesliga",
+    "slug": "german-bundesliga",
+    "abbr": "Bund",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+    "CategoryId": 4
+  },
+  {
+    "name": "Dutch Eredivisie",
+    "slug": "dutch-eredivisie",
+    "abbr": "Erediv",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
+    "CategoryId": 5
+  },
+  {
+    "name": "French Ligue 1",
+    "slug": "french-ligue-1",
+    "abbr": "Ligue 1",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+    "CategoryId": 6
+  },
+  {
+    "name": "Portuguese Liga",
+    "slug": "portuguese-liga",
+    "abbr": "Liga",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
+    "CategoryId": 7
+  },
+  {
+    "name": "Russian Premier League",
+    "slug": "russian-premier-league",
+    "abbr": "Prem",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/106.png",
+    "CategoryId": 8
+  },
+  {
+    "name": "Mexican Liga BBVA MX",
+    "slug": "mexican-liga-bbva-mx",
+    "abbr": "Prim",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
+    "CategoryId": 9
+  },
+  {
+    "name": "Chinese Super League",
+    "slug": "chinese-super-league",
+    "abbr": "Chinese Super League",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/2350.png",
+    "CategoryId": 10
+  },
+  {
+    "name": "Brazilian Serie A",
+    "slug": "brazilian-serie-a",
+    "abbr": "Bras",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
+    "CategoryId": 11
+  },
+  {
+    "name": "Japanese J League",
+    "slug": "japanese-j1-league",
+    "abbr": "J Lge",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/2199.png",
+    "CategoryId": 12
+  },
+  {
+    "name": "Malaysian Super League",
+    "slug": "malaysian-super-league",
+    "abbr": "MYS",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/2340.png",
+    "CategoryId": 13
+  },
+  {
+    "name": "Singaporean Premier League",
+    "slug": "singaporean-premier-league",
+    "abbr": "SGPL",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/2338.png",
+    "CategoryId": 14
+  },
+  {
+    "name": "Thai Premier League",
+    "slug": "thai-premier-league",
+    "abbr": "Thai Premier League",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/2341.png",
+    "CategoryId": 15
+  },
+  {
+    "name": "Indonesian Liga 1",
+    "slug": "indonesian-liga-1",
+    "abbr": "BRI Liga1",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/2336.png",
+    "CategoryId": 16
+  },
+  {
+    "name": "Ugandan Super League",
+    "slug": "ugandan-super-league",
+    "abbr": "USL",
+    "logos": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100",
+    "CategoryId": 17
+  },
+  {
+    "name": "Argentine Liga Profesional de Fútbol",
+    "slug": "argentine-liga-profesional-de-futbol",
+    "abbr": "Prim A",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/1.png",
+    "CategoryId": 18
+  },
+  {
+    "name": "Turkish Super Lig",
+    "slug": "Super",
+    "abbr": "turkish-super-lig",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/18.png",
+    "CategoryId": 19
+  },
+  {
+    "name": "Australian A-League",
+    "slug": "australian-a-league",
+    "abbr": "A Lge",
+    "logos": "https://a.espncdn.com/i/leaguelogos/soccer/500/1308.png",
+    "CategoryId": 20
+  }
+]
